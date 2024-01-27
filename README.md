@@ -5,7 +5,7 @@ To complete the task, three samples are provided: training, validation and testi
 2) $\texttt{filename}$ – file name for review; 
 3) $\texttt{libs}$ – comma-separated list of libraries statically imported by this file (we used the LIEF library to obtain the list).
 ### Model
-Naïve Bayes Classification was chosen taking into account the imbalance between 2 classes.
+TF-IDF approach and Naïve Bayes Classification were chosen taking into account the imbalance between 2 classes.
 ### Some EDA
 <img width="600" src="https://github.com/verse-chorus/infotecs_ml/assets/61665391/fcbf29f9-7812-425f-8699-561d10477ecc">
 
