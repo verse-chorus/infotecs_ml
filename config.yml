@@ -1,0 +1,4 @@
+test_path: data/test.tsv
+train_path: data/train.tsv
+val_path: data/val.tsv
+results_path: results
